@@ -1,1 +1,0 @@
-# TrabalhoA2-Algoritmo
