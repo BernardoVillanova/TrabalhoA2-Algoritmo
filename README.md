@@ -23,3 +23,4 @@
 
 ## TODO:
 -> FALTO INFORMAÇÕES DO ANO 90
+-> COnsegui achar mais dados para a economia.txt - Felpe
