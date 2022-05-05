@@ -29,4 +29,6 @@
 
 ##
 - Brainstorming de como será feito o trabalho e usar os PIB no código
+- Pensei em declarar apenas duas variaveis na função sendo elas anoBrasil e pibBrasil
+- Sendo assim essas variaveis serão as de entrada para verificação
 
