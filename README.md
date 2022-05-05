@@ -21,11 +21,12 @@
 
 → Tudo no mesmo código principal (Main)
 
-<<<<<<< development
 ## TODO:
 
 #### Link com todos os PIB e seus respectivos anos - Bernardo
 - https://infograficos.gazetadopovo.com.br/economia/pib-do-brasil/
-#### Criar economia.txt 
-=======
->>>>>>> main
+#### Criado economia.txt dos anos de 1962 a 2021 - Bernardo
+
+##
+- Brainstorming de como será feito o trabalho e usar os PIB no código
+
