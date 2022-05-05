@@ -23,3 +23,6 @@
 
 ## TODO:
 
+#### Link com todos os PIB e seus respectivos anos - Bernardo
+- https://infograficos.gazetadopovo.com.br/economia/pib-do-brasil/
+#### Criar economia.txt 
