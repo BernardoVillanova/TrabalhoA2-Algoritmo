@@ -31,7 +31,7 @@
 → No minimo 3 funções (Sub-rotina)
 
 → Devolver o maior PIB e ano
-
+→ 
 → Menor PIB e ano
 
 → PIB escolhido pelo usuário
@@ -39,4 +39,6 @@
 → Main (Onde há entrada de dados e Saída de Dados)
 
 → Tudo no mesmo código principal (Main)
+
+→ Fazem essa porra
 
