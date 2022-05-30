@@ -1,0 +1,9 @@
+Hello World!
+
+Segue as instruções de como utilizar nosso programa, basicamente filtramos uma quantidade de dados seguindo os respectivos PIB de cada ano de 1962 atpe 2021 no Brasil.
+
+Nossa primeira função é retornar o maior PIB do Brasil nos ultimos 30 anos, de acordo com o que for inserido.
+Ex.: Caso insira 2000, iremos retornar o valor de 1985 a 2015 e seu respectivo maior PIB
+
+Nossa terceira função é retornar o pib do ano escolhido pelo user
+
