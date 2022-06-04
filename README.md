@@ -40,5 +40,5 @@
 
 → Tudo no mesmo código principal (Main)
 
-→ Fazem essa porra, PORFAVOR!!!!
+→ Trabalho feito sozinho kk
 
