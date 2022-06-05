@@ -33,7 +33,6 @@
 → No minimo 3 funções (Sub-rotina)
 
 → Devolver o maior PIB e ano
-→ 
 → Menor PIB e ano
 
 → PIB escolhido pelo usuário
