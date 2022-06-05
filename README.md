@@ -1,4 +1,6 @@
-                   ▄              ▄
+## Trabalho de Faculdade 
+### Feito pelo VisualG (IDE de Portugol - Pseucodigo), onde teriamos que manipular uma serie de dados
+                  ▄              ▄
                   ▌▒█           ▄▀▒▌
                   ▌▒▒█        ▄▀▒▒▒▐
                  ▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐
