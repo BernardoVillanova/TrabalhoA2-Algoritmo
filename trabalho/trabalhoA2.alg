@@ -152,6 +152,7 @@ para ano de anoAtt ate 2021 passo 1 faca
 
    	fimse
 fimpara
+     EscrevaL()
      escreval("O maior PIB entre ",anoNew, " e ",anoAtt," é: ",pibAntigo,"% de ",anoAntigo)
 fimprocedimento
 
@@ -303,6 +304,7 @@ para ano de anoAtt ate 2021 passo 1 faca
 
    	fimse
 fimpara
+     EscrevaL()
      escreval("O menor PIB entre ",anoNew, " e ",anoAtt," é: ",pibAntigo,"% de ",anoAntigo)
 fimprocedimento
 
@@ -446,14 +448,22 @@ Var
  ano:inteiro
  retornoEscolhido, retornoMaior, retornoMenor: real
 Inicio
-  escreval("Digite o ano que deseja verificar o PIB do Brasil, de 1962 a 2021")
+  EscrevaL("----------------------------------------------------------------")
+  EscrevaL("                 CONSULTOR DE PIB BRASILEIRO")
+  EscrevaL("----------------------------------------------------------------")
+  EscrevaL()
+  EscrevaL()
+  escreval("Digite o ano que deseja verificar o PIB do Brasil, de 1962 a 2021:")
   leia(ano)
-  
+
   maiorPib(ano)
   menorPib(ano)
   retornoEscolhido <- pibEscolhido(ano)
 
+  EscrevaL()
   escreval()
+  EscrevaL("----------------------------------------------------------------")
   escreval("O PIB do ano de ",ano, " é: ",retornoEscolhido,"%")
+  EscrevaL("----------------------------------------------------------------")
 
 Fimalgoritmo
