@@ -2,8 +2,16 @@ Hello World!
 
 Segue as instruções de como utilizar nosso programa, basicamente filtramos uma quantidade de dados seguindo os respectivos PIB de cada ano de 1962 atpe 2021 no Brasil.
 
-Nossa primeira função é retornar o maior PIB do Brasil nos ultimos 30 anos, de acordo com o que for inserido.
-Ex.: Caso insira 2000, iremos retornar o valor de 1985 a 2015 e seu respectivo maior PIB
+Nossa primeira função é retornar o maior PIB do Brasil nos ultimos 10 anos, de acordo com o inserido pelo usuário.
+Ex.: Caso insira 2000, iremos retornar o valor de 2000 a 2010, com 10 anos de comparação em relação ao ano inserido pelo usuário.
 
-Nossa terceira função é retornar o pib do ano escolhido pelo user
+Nossa segunda função é retornar o menor PIB dos ultimos 10 anos, de acordo com o inserido pelo usuário.
+Ex.: Caso insira 2000, iremos retornar o valor de 2000 a 2010, com 10 anos de comparação em relação ao ano inserido pelo usuário.
+
+Nossa terceira função é retornar o pib do ano escolhido pelo user.
+Ex.: Caso o user insira 2000, iremos retornar o pib deste ano.
+
+O funcionamento do nosso código é apenas o usuário inserir o ano desejado e esperar a "mágica" acontecer.
+
+Onde está "Mágica" está usando switch case, testamos de diversas formas e a utilização mais simples visualmente, apesar da quantidade de linhas, é por switch case ou escolha caso, onde será feito um caso de 1962 a 2021 com o pib determinado por ano, onde só será executado caso seja o ano inserido.
 
